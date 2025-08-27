@@ -1,0 +1,4 @@
+rdkit-pypi
+pandas
+numpy
+scipy
